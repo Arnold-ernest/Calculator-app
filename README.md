@@ -128,5 +128,5 @@ calculator-web-app/
 
 ## Related
 
-- [C++ Console Calculator](../README-cpp.md) — terminal version of the same calculator logic
+- [C++ Console Calculator](README-cpp.md) — terminal version of the same calculator logic
 - [View in AI Studio](https://ai.studio/apps/d8ab7abe-c2a7-4fcc-a977-f9b6ffd0dec9)
