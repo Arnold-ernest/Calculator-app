@@ -1,6 +1,6 @@
 {
-  "name": "Calculator web app",
-  "description": "A responsive web calculator.",
+  "name": "OmniCalc Pro",
+  "description": "A professional-grade multi-mode calculator featuring Scientific, Graphing, and Programming modes with real-time function plotting and base conversions.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": ["Scientific Calculation", "Function Graphing", "Programmer Mode"]
 }
