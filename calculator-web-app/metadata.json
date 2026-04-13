@@ -1,6 +1,10 @@
 {
-  "name": "OmniCalc Pro",
+  "name": "calculator-web-app",
   "description": "A professional-grade multi-mode calculator featuring Scientific, Graphing, and Programming modes with real-time function plotting and base conversions.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["Scientific Calculation", "Function Graphing", "Programmer Mode"]
+  "majorCapabilities": [
+    "Scientific Calculation",
+    "Function Graphing",
+    "Programmer Mode"
+  ]
 }
